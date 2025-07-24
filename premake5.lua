@@ -59,8 +59,7 @@ project "freetype"
 
 	includedirs
 	{
-		"freetype/include",
-		"libpng"
+		"freetype/include"
 	}
 
 	defines
@@ -105,7 +104,8 @@ project "msdfgen"
 	includedirs
 	{
 		"include",
-		"freetype/include"
+		"freetype/include",
+		"libpng"
 	}
 
 	defines

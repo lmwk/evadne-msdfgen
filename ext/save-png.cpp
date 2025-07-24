@@ -12,7 +12,7 @@
 
 #ifdef MSDFGEN_USE_LIBPNG
 
-#include <../libpng/png.h>
+#include <png.h>
 
 namespace msdfgen {
 

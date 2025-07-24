@@ -4,7 +4,7 @@
 // This file needs to be included first for all MSDFgen sources
 
 #ifndef MSDFGEN_PUBLIC
-#include <../msdfgen-config.h>
+#include <msdfgen-config.h>
 #endif
 
 #include <cstddef>
