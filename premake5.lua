@@ -59,7 +59,8 @@ project "freetype"
 
 	includedirs
 	{
-		"freetype/include"
+		"freetype/include",
+		"libpng"
 	}
 
 	defines
