@@ -1,8 +1,8 @@
 
 #pragma once
 
-#define MSDFGEN_PUBLIC __declspec(dllimport)
-#define MSDFGEN_EXT_PUBLIC __declspec(dllimport)
+#define MSDFGEN_PUBLIC 
+#define MSDFGEN_EXT_PUBLIC 
 
 #define MSDFGEN_VERSION 1.12.1
 #define MSDFGEN_VERSION_MAJOR 1
@@ -12,3 +12,4 @@
 
 #define MSDFGEN_USE_CPP11
 #define MSDFGEN_EXTENSIONS
+#define MSDFGEN_USE_TINYXML2
